@@ -10,7 +10,7 @@ Arrays are a simple data structure that can be used to store a fixed number of e
 
 ArrayLists are a more flexible data structure that can be used to store a variable number of elements of the same type. ArrayLists can grow or shrink dynamically as elements are added or removed, and they provide several methods for adding, removing, and accessing elements.
 
-HashMaps are a key-value data structure that can be used to store a collection of key-value pairs. Each key in a HashMap must be unique, and it is used to retrieve the corresponding value. HashMaps provide several methods for adding, removing, and accessing elements, and they can be used to implement a phonebook by storing names as keys and phone numbers as values.
+HashMaps are a key-value data structure that can be used to store a collection of key-value pairs. Each key in a HashMap must be unique, and it is used to retrieve the corresponding value. HashMaps provide several methods for adding, removing, and accessing elements, and theay can be used to implement a phonebook by storing names as keys and phone numbers as values.
 
 By using an object of type `Map` to implement the phonebook, you can easily add, remove, and retrieve entries in an efficient and flexible way.
 
